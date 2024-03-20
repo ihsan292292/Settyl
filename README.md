@@ -55,4 +55,3 @@ This repository contains code to deploy a text classification model using FastAP
 10. **Deployment**:
     - The model and API were deployed using ngrok, enabling the model to be accessible via a public URL for real-world usage.
 
-These techniques collectively contributed to the development, training, and deployment of the text classification model, ensuring its robustness and usability in practical applications.
