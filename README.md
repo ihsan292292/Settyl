@@ -1,4 +1,7 @@
-# Settyl FastAPI Model Deployment
+# Settyl Data Science And Machine Learning Engineer Task
+
+[yy_BIwbeTso.webm](https://github.com/ihsan292292/Settyl/assets/97184876/2b573266-7830-43ed-846e-1e28a0992cf1)
+
 
 This repository contains code to deploy a text classification model using FastAPI and ngrok.
 
